@@ -348,3 +348,5 @@ Los detalles del usuario deben estar en el siguiente formato:
 ```
 
 Ahora comencemos la prueba enviando una solicitud HTTP GET.
+
+> NECESARIO: prueba con otro tutorial de POSTMAN porque este estñá obsoleto,...
